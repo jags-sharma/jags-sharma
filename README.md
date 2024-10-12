@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jags-sharma
-- 👀 I’m interested in AWS Cloud, Open Source Observability, APM, Peformance Engineering, Data Analytics and Kubernetes
-- 🌱 I’m currently learning multi cloud (Azure, GCP and AWS)
-- 💞️ I’m looking to collaborate on Observability and Kuberenetes
-- 📫 Reach me on sharma.jagriti@gmail.com
+- 👀 I’m interested in anything Cloud, Observability, Data Analytics, GenAI and Kubernetes
+- 🌱 I’m currently developing/exploring solutions to run data and AI workloads on K8s
+- 💞️ I’m looking to collaborate on Observability, Data Processing and Kuberenetes
+- 📫 Reach me at jags.sharma@kubed.ai
 
 <!---
 jags-sharma/jags-sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
